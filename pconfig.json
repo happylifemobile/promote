@@ -12,6 +12,16 @@
             "type": 1,
             "status": 1
         },
+		{
+            "name": "2048 Puzzle Mania",
+			"platform": "android",
+           	"image_url_p": "pad01",
+            "image_url_l": "pad01",
+            "app_url": "market://details?id=com.happymobile.num2048",
+            "package": "com.happymobile.num2048",
+            "type": 1,
+            "status": 1
+        },
         {
             "name": "2048 Classic Puzzle",
 			"platform": "ios",
@@ -23,12 +33,32 @@
             "status": 1
         },
 		{
+            "name": "2048 Mania",
+			"platform": "android",
+           	"image_url_p": "pad02",
+            "image_url_l": "pad02",
+            "app_url": "market://details?id=com.happymobile.man2048",
+            "package": "com.happymobile.man2048",
+            "type": 1,
+            "status": 1
+        },
+		{
             "name": "Pen Apple Halloween",
 			"platform": "ios",
            	"image_url_p": "pad03",
             "image_url_l": "pad03",
             "app_url": "https://itunes.apple.com/app/id1170977677?mt=8",
             "package": "com.happymobile.ppapx",
+            "type": 1,
+            "status": 1
+        },
+		{
+            "name": "Pen Apple Halloween",
+			"platform": "android",
+           	"image_url_p": "pad03",
+            "image_url_l": "pad03",
+            "app_url": "market://details?id=com.happymobile.ppap",
+            "package": "com.happymobile.ppap",
             "type": 1,
             "status": 1
         }
