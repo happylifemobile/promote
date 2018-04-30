@@ -13,12 +13,12 @@
             "status": 1
         },
 		{
-            "name": "2048 Puzzle Mania",
+            "name": "Ninja Rush",
 			"platform": "android",
-           	"image_url_p": "pad01",
-            "image_url_l": "pad01_l",
-            "app_url": "market://details?id=com.happymobile.num2048",
-            "package": "com.happymobile.num2048",
+           	"image_url_p": "http://p7zfgw8yv.bkt.gdipper.com/ninjarush_p.jpg",
+            "image_url_l": "http://p7zfgw8yv.bkt.gdipper.com/ninjarush_l.jpg",
+            "app_url": "market://details?id=com.happymobile.blockdash",
+            "package": "com.happymobile.blockdash",
             "type": 1,
             "status": 1
         },
