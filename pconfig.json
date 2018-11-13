@@ -23,22 +23,22 @@
             "status": 1
         },
         {
-            "name": "Block Puzzle",
+            "name": "Keep Alive",
 			"platform": "ios",
-           	"image_url_p": "http://p7zfgw8yv.bkt.gdipper.com/block_p.jpg",
-            "image_url_l": "http://p7zfgw8yv.bkt.gdipper.com/block_l.jpg",
-            "app_url": "https://itunes.apple.com/app/id1440050620?mt=8",
-            "package": "com.happymobile.blockpuzzle",
+           	"image_url_p": "http://p7zfgw8yv.bkt.gdipper.com/alive_p.jpg",
+            "image_url_l": "http://p7zfgw8yv.bkt.gdipper.com/alive_l.jpg",
+            "app_url": "https://itunes.apple.com/app/id1441402138?mt=8",
+            "package": "com.happymobile.keepalive",
             "type": 1,
             "status": 1
         },
 		{
-            "name": "Block Puzzle",
+            "name": "Keep Alive",
 			"platform": "android",
-           	"image_url_p": "http://p7zfgw8yv.bkt.gdipper.com/block_p.jpg",
-            "image_url_l": "http://p7zfgw8yv.bkt.gdipper.com/block_l.jpg",
-            "app_url": "market://details?id=com.happymobile.blockpuzzle",
-            "package": "com.happymobile.blockpuzzle",
+           	"image_url_p": "http://p7zfgw8yv.bkt.gdipper.com/alive_p.jpg",
+            "image_url_l": "http://p7zfgw8yv.bkt.gdipper.com/alive_l.jpg",
+            "app_url": "market://details?id=com.happymobile.keepalive",
+            "package": "com.happymobile.keepalive",
             "type": 1,
             "status": 1
         },
