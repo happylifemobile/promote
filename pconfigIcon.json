@@ -6,7 +6,7 @@
             "appid": "1255176111",
             "package": "com.happymobile.coreball",
             "andStatus": 1,
-	        "iosStatus": 1,
+	        "iosStatus": 1
         },
         {
             "name": "Keep Alive",
@@ -14,7 +14,7 @@
             "appid": "1441402138",
             "package": "com.happymobile.keepalive",
             "andStatus": 1,
-            "iosStatus": 1,
+            "iosStatus": 1
         },
         {
             "name": "Trap Pirate",
@@ -22,7 +22,7 @@
             "appid": "1442916522",
             "package": "com.happymobile.trappirate",
             "andStatus": 1,
-            "iosStatus": 1,
+            "iosStatus": 1
         }
     ]
 }
