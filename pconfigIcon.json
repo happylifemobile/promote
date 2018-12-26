@@ -2,27 +2,33 @@
     "app_list": [
         {
             "name": "Core Ball",
-           	"icon_url": "http://d1e1tw3mmgrehw.cloudfront.net/coreball.png",
+           	"icon_url": "http://king.cdn-happymobile.com/icon/coreball.png",
             "appid": "1255176111",
             "package": "com.happymobile.coreball",
             "andStatus": 1,
-	        "iosStatus": 1
+	        "iosStatus": 1,
+	        "image_url_l": "http://king.cdn-happymobile.com/promote/coreball_l.jpg",
+	        "image_url_p": "http://king.cdn-happymobile.com/promote/coreball_p.jpg"
         },
         {
             "name": "Keep Alive",
-            "icon_url": "http://d1e1tw3mmgrehw.cloudfront.net/keepalive.png",
+            "icon_url": "http://king.cdn-happymobile.com/icon/keepalive.png",
             "appid": "1441402138",
             "package": "com.happymobile.keepalive",
             "andStatus": 1,
-            "iosStatus": 1
+            "iosStatus": 1,
+	        "image_url_l": "http://king.cdn-happymobile.com/promote/keepalive_l.jpg",
+	        "image_url_p": "http://king.cdn-happymobile.com/promote/keepalive_p.jpg"
         },
         {
             "name": "Trap Pirate",
-            "icon_url": "http://d1e1tw3mmgrehw.cloudfront.net/trappirate.png",
+            "icon_url": "http://king.cdn-happymobile.com/icon/trappirate.png",
             "appid": "1442916522",
             "package": "com.happymobile.trappirate",
             "andStatus": 1,
-            "iosStatus": 1
+            "iosStatus": 1,
+	        "image_url_l": "http://king.cdn-happymobile.com/promote/pirate_l.jpg",
+	        "image_url_p": "http://king.cdn-happymobile.com/promote/pirate_p.jpg"
         }
     ]
 }
